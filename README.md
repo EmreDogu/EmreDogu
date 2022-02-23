@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emre Doğu</h1>
 <h3 align="center">A passionate Computer Science student at university. Wanna be Full Stack & DevOps Developer!</h3>
 
-- 🔭 I’m currently working on **many projects so develop my skills to even further.**
+- 🔭 I’m currently working on **many different projects in order to develop my skills even further.**
 
 - 🌱 I’m currently learning **Full Stack & DevOps Courses**
 
