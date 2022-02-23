@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emre Doğu</h1>
-<h3 align="center">A passionate wanna be Full Stack & DevOps student!</h3>
+<h3 align="center">A passionate Computer Science student at university. Wanna be Full Stack & DevOps Developer!</h3>
 
 - 🔭 I’m currently working on **many projects so develop my skills to even further.**
 
